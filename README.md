@@ -9,7 +9,11 @@
   <a href="https://github.com/Anshuman22coder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
+
 
 ---
 
@@ -18,7 +22,7 @@
 - 🔭 **Currently:** Research Intern @ FOSSEE Lab IIT Bombay, focusing on LLMs, embeddings, and open-source software.
 - 🎓 **Education:** Integrated B.Tech-M.Tech in Computer Science and Engineering at Central University of Jharkhand.
 - 🏆 **Achievements:** GATE CS 2026 Qualified | Co-led a team to the finals in the NASA Space Apps Hackathon, Noida (2024).
-- 💼 **Experience:** Developed AI models, LSTM-based forecasting pipelines, and GAN-based image synthesis as a researcher at CSIR-CMERI and NIT Rourkela.
+- 💼 **Experience:** Developed AI models, LSTM-based forecasting pipelines, and GAN-based image synthesis as a researcher at CSIR-CMERI and NIT Rourkela. Solved 100+ DSA and Advanced SQL questions
 - 🌱 **Tech Focus:** Machine Learning, Advanced Deep Learning, Python, DSA, and MERN stack development.
 
 ### 🛠️ Tech Stack & Tools
@@ -40,6 +44,7 @@
 - **Encoder-Decoder Architecture** – Google (Issued Jul 2025)
 - **Android Mobile Application Development** – SWAYAM MHRD (Issued Jun 2024)
 - **Cisco Certified Network Associate (CCNA)** – Simplilearn Alumni (Issued Jul 2025)
+- **Introduction to Large Language Models(LLMs)**-Google (issued Issued Jul 2025)
 
 ### 📈 GitHub Stats
 
@@ -53,6 +58,12 @@
 <p align="center">
   <a href="https://holopin.io/@anshuman22coder">
     <img src="https://holopin.me/anshuman22coder" alt="@anshuman22coder's Holopin board" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="Medium-hard SQL LEET CODE">
+    <img src="https://holopin.me/anshuman22coder" alt="@anshuman22coder's SQL50" />
   </a>
 </p>
 
