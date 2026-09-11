@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi there, I'm Anshuman Samanta 👋</h1>
 <h3 align="center">AI, ML, Data Science & Full-Stack Web Developer | Engineering Smart Solutions</h3>
 
@@ -56,4 +56,3 @@
   </a>
 </p>
 
-```
