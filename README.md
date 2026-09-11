@@ -9,9 +9,12 @@
   <a href="https://github.com/Anshuman22coder">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/Anshuman22coder/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+<a href="https://portfolio.anshumancodes.in/">
+  <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 
@@ -48,9 +51,10 @@
 
 ### 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman22coder&show_icons=true&theme=radical" alt="Anshuman's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman22coder&theme=radical" alt="Anshuman's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman22coder&show_icons=true&theme=radical" alt="Anshuman's GitHub stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman22coder&theme=radical" alt="Anshuman's GitHub Streak" height="195" />
 </p>
 
 ### 🎖️ My Holopin Badges
