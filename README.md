@@ -63,7 +63,7 @@
 
 <p align="center">
   <a href="Medium-hard SQL LEET CODE">
-    <img src="https://holopin.me/anshuman22coder" alt="@anshuman22coder's SQL50" />
+    <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Screenshot%202026-09-11%20195746.png" />
   </a>
 </p>
 
