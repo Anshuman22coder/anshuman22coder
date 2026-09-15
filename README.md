@@ -44,10 +44,11 @@
 
 ### 📜 Certifications
 
-- **Encoder-Decoder Architecture** – Google (Issued Jul 2025)
 - **Android Mobile Application Development** – SWAYAM MHRD (Issued Jun 2024)
+- **Encoder-Decoder Architecture** – Google (Issued Jul 2025)
 - **Cisco Certified Network Associate (CCNA)** – Simplilearn Alumni (Issued Jul 2025)
-- **Introduction to Large Language Models(LLMs)**-Google (issued Issued Jul 2025)
+- **Introduction to Large Language Models(LLMs)**-Google (Issued Jul 2025)
+- **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (issued Sept 2026)
 
 ### 📈 GitHub Stats
 
