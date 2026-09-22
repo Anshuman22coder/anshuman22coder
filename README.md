@@ -66,7 +66,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman22coder&show_icons=true&theme=radical" alt="Anshuman's GitHub stats" height="195" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshuman22coder&theme=radical" alt="Anshuman's GitHub Streak" height="195" />
 </p>
 
