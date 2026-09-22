@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there, I'm Anshuman Samanta 👋</h1>
-<h3 align="center">AI, ML, Data Science & Full-Stack Web Developer | Engineering Smart Solutions</h3>
+<h3 align="center">AI, ML, Data Science & Full-Stack Web Developer | Data Analyst| Engineering Smart Solutions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anshuman-samanta-4199361aa">
@@ -34,7 +34,7 @@
 **AI/ML & Data Science:** Deep Learning, GANs, LSTMs, LLMs, Computer Vision, Transformers  
 **Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS  
 **DevOps & Tools:** CI/CD, PM2, Git
-
+**Data Analyst:** Advanced Sql, Excel, Power Bi, Power Query, Dax, Data Modelling, EDA
 ### 🚀 Featured Projects
 
 - **Parkgrid (AI-Enabled Smart Parking):** Built a full-stack orchestration platform with automated slot allocation, digital ticketing, and entry/exit workflows using React, Express.js, and MongoDB. Implemented JWT authentication, role-based access control (RBAC), and a real-time dashboard for occupancy monitoring. Currently integrating AI capabilities.
@@ -49,6 +49,18 @@
 - **Cisco Certified Network Associate (CCNA)** – Simplilearn Alumni (Issued Jul 2025)
 - **Introduction to Large Language Models(LLMs)**-Google (Issued Jul 2025)
 - **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (issued Sept 2026)
+- **Oracle Sql for Developers**-Oracle(issued Sept 2026)
+
+
+
+### 📈Data Analytics Resume
+
+<p align="center">
+  <a href="Medium-hard SQL LEET CODE">
+    <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Screenshot_20260922_160142_Xodo.jpg" />
+  </a>
+</p>
+
 
 ### 📈 GitHub Stats
 
