@@ -42,7 +42,7 @@
 - **Actuator Force Prediction (CSIR-CMERI):** LSTM-based deep learning model analyzing multivariate sensor data to predict force in real-time, reducing RMSE to 3.12N.
 - **Foreground Extraction using GANs (NIT Rourkela):** High-quality image synthesis pipeline utilizing CGAN, SRGAN, and MODNet achieving over 80% accuracy.
 
-### 📜 Certifications
+### 📜 Certifications and Publications
 
 - **Android Mobile Application Development** – SWAYAM MHRD (Issued Jun 2024)
 - **Encoder-Decoder Architecture** – Google (Issued Jul 2025)
@@ -50,7 +50,12 @@
 - **Introduction to Large Language Models(LLMs)**-Google (Issued Jul 2025)
 - **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (issued Sept 2026)
 - **Oracle Sql for Developers**-Oracle(issued Sept 2026)
-
+  <p align="center">
+- **<b>Publication:</b> "Enhancing Business Strategy through AI-Powered Cloud Security and Snowflake ERP Integration", <i>IEEE Xplore</i>, 2025. — 
+  <a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+    [View on IEEE Xplore]
+  </a>**
+</p>
 
 
 ### 📈Data Analytics Resume
