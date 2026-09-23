@@ -30,7 +30,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** Python, JavaScript, HTML5/CSS3, C++  
+**Languages:** Python, JavaScript, HTML5/CSS3, Java
 **AI/ML & Data Science:** Deep Learning, GANs, LSTMs, LLMs, Computer Vision, Transformers  
 **Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS  
 **DevOps & Tools:** CI/CD, PM2, Git
