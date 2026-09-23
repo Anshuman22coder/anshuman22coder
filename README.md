@@ -48,8 +48,9 @@
 - **Encoder-Decoder Architecture** – Google (Issued Jul 2025)
 - **Cisco Certified Network Associate (CCNA)** – Simplilearn Alumni (Issued Jul 2025)
 - **Introduction to Large Language Models(LLMs)**-Google (Issued Jul 2025)
-- **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (issued Sept 2026)
-- **Oracle Sql for Developers**-Oracle(issued Sept 2026)
+- **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (Issued Sept 2026)
+- **Oracle Sql for Developers**-Oracle (Issued Sept 2026)
+- **Power BI Data Modeling with DAX**-LinkedIn (Issued Sept 2026)
   <p align="center">
 - **<b>Publication:</b> "Enhancing Business Strategy through AI-Powered Cloud Security and Snowflake ERP Integration", <i>IEEE Xplore</i>, 2025. — 
   <a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
@@ -58,7 +59,7 @@
 </p>
 
 
-### 📈Data Analytics Resume
+### 📈Data Analyst Resume
 
 <p align="center">
   <a href="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Anshuman_DATA ANALYTICS RESUMe.pdf">
