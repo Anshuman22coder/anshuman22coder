@@ -61,7 +61,7 @@
 ### 📈Data Analytics Resume
 
 <p align="center">
-  <a href="Medium-hard SQL LEET CODE">
+  <a href="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Anshuman_DATA ANALYTICS RESUMe.pdf">
     <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Screenshot_20260922_160142_Xodo.jpg" />
   </a>
 </p>
