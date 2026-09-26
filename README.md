@@ -19,6 +19,7 @@
 
 
 ---
+<img src="Screenshot 2026-09-26 155742.png" align="right" width="300" height="700">
 
 ### 👨🏻‍💻 About Me
 
