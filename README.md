@@ -25,7 +25,8 @@
 - 🔭 **Currently:** Research Intern @ FOSSEE Lab IIT Bombay, focusing on LLMs, embeddings, and open-source software.
 - 🎓 **Education:** Integrated B.Tech-M.Tech in Computer Science and Engineering at Central University of Jharkhand.
 - 🏆 **Achievements:** GATE CS 2026 Qualified | Co-led a team to the finals in the NASA Space Apps Hackathon, Noida (2024).
-- 💼 **Experience:** Developed AI models, LSTM-based forecasting pipelines, and GAN-based image synthesis as a researcher at CSIR-CMERI and NIT Rourkela. Solved 150+ DSA,SQl and Advanced SQL questions across coding platforms like GFG, Leetcode, DataLemur
+- 💼 **Experience:** Developed AI models, LSTM-based forecasting pipelines, and GAN-based image synthesis as a researcher at CSIR-CMERI and NIT Rourkela.
+- 💼 **Problem Solving:** Solved 150+ DSA, SQL, Pandas and Advanced SQL questions across coding platforms like GFG, Leetcode, DataLemur.
 - 🌱 **Tech Focus:** Machine Learning, Advanced Deep Learning, Python, DSA,SQL,Excel and MERN stack development.
 
 ### 🛠️ Tech Stack & Tools
@@ -33,7 +34,7 @@
 **Languages:** Python, JavaScript, HTML5/CSS3, Java
 **AI/ML & Data Science:** Deep Learning, GANs, LSTMs, LLMs, Computer Vision, Transformers  
 **Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS  
-**DevOps & Tools:** CI/CD, PM2, Git
+**DevOps & Tools:** CI/CD, PM2, Git <br>
 **Data Analyst:** Advanced Sql, Excel, Power Bi, Power Query, Dax, Data Modelling, EDA
 ### 🚀 Featured Projects
 
