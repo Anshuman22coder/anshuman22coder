@@ -37,6 +37,8 @@
 **Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS  
 **DevOps & Tools:** CI/CD, PM2, Git <br>
 **Data Analytics:** Advanced Sql, Excel, Power Bi, Power Query, Dax, Data Modelling, EDA
+
+---
 ### 🚀 Featured Projects
 
 - **📊US_Baby_Names_Analysis:** US Baby Names Trend & Regional Popularity Analysis (1980–2010) via Power Bi, SQL, DAX, Power Query, Data Modelling.
