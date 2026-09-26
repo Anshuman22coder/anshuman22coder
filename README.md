@@ -55,6 +55,7 @@
 - **Deloitte Australia - Data Analytics Job Simulation**-Deloitte (Issued Sept 2026)
 - **Oracle Sql for Developers**-Oracle (Issued Sept 2026)
 - **Power BI Data Modeling with DAX**-LinkedIn (Issued Sept 2026)
+- **PYTHON CODE CHALLENGES FOR OBJECT ORIENTED PROGRAMMING**-LinkedIn (Issued Sept 2026)
   <p align="center">
 - **<b>Publication:</b> "Enhancing Business Strategy through AI-Powered Cloud Security and Snowflake ERP Integration", <i>IEEE Xplore</i>, 2025. — 
   <a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
