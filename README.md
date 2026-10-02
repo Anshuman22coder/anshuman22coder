@@ -41,22 +41,22 @@
 ---
 ### 🚀 Featured Projects
 
-- **📊US_Baby_Names_Analysis:** US Baby Names Trend & Regional Popularity Analysis (1980–2010) via Power Bi, SQL, DAX, Power Query, Data Modelling.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **📊US_Baby_Names_Analysis:** US Baby Names Trend & Regional Popularity Analysis (1980–2010) via Power Bi, SQL, DAX, Power Query, Data Modelling.<a href="https://github.com/Anshuman22coder/US_Baby_Names_Analysis.git" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
-- **📊SaaS Subscription Retention & Churn Analysis:** End-to-end demographic and lifecycle analytics evaluating cohort maturity, long-term retainers (150+ days), and retention vs. churn rates across 3,000+ subscriber records. via Power Bi, SQL, DAX, Power Query, Data Modelling.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **📊SaaS Subscription Retention & Churn Analysis:** End-to-end demographic and lifecycle analytics evaluating cohort maturity, long-term retainers (150+ days), and retention vs. churn rates across 3,000+ subscriber records. via Power Bi, SQL, DAX, Power Query, Data Modelling.<a href="https://github.com/Anshuman22coder/Sales_CRM_Analysis.git" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
-- **🌐Parkgrid (AI-Enabled Smart Parking):** Built a full-stack orchestration platform with automated slot allocation, digital ticketing, and entry/exit workflows using React, Express.js, and MongoDB. Implemented JWT authentication, role-based access control (RBAC), and a real-time dashboard for occupancy monitoring. Currently integrating AI capabilities.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **🌐Parkgrid (AI-Enabled Smart Parking):** Built a full-stack orchestration platform with automated slot allocation, digital ticketing, and entry/exit workflows using React, Express.js, and MongoDB. Implemented JWT authentication, role-based access control (RBAC), and a real-time dashboard for occupancy monitoring. Currently integrating AI capabilities.<a href="https://github.com/Anshuman22coder/Parking_Lot.git" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
-- **💬🌐ChatSphere:** Real-time chat application utilizing WebSockets, React.js, and MongoDB, optimized with NGINX reverse proxy to lower response time to 100ms.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **💬🌐ChatSphere:** Real-time chat application utilizing WebSockets, React.js, and MongoDB, optimized with NGINX reverse proxy to lower response time to 100ms.<a href="https://github.com/Anshuman22coder/web_socket_chat_app.git" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
-- **Actuator Force Prediction (CSIR-CMERI):** LSTM-based deep learning model analyzing multivariate sensor data to predict force in real-time, reducing RMSE to 3.12N.Modelling.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **Actuator Force Prediction (CSIR-CMERI):** LSTM-based deep learning model analyzing multivariate sensor data to predict force in real-time, reducing RMSE to 3.12N.Modelling.<a href="https://github.com/Anshuman22coder/ML-projects/blob/main/LSTM_ACTUATOR_PROJECT_SGD_AFTER_ADAM_3.28_RMSE.ipynb" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
-- **Foreground Extraction using GANs (NIT Rourkela):** High-quality image synthesis pipeline utilizing CGAN, SRGAN, and MODNet achieving over 80% accuracy.<a href="https://ieeexplore.ieee.org/document/11507337/" target="_blank" rel="noopener noreferrer">
+- **Foreground Extraction using GANs (NIT Rourkela):** High-quality image synthesis pipeline utilizing CGAN, SRGAN, and MODNet achieving over 80% accuracy.<a href="https://github.com/Anshuman22coder/NIT_ROURKELA_GAN" target="_blank" rel="noopener noreferrer">
     [View on GitHub]
   </a>
 
