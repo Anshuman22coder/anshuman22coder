@@ -28,7 +28,7 @@
 - 🏆 **Achievements:** GATE CS 2026 Qualified | Co-led a team to the finals in the NASA Space Apps Hackathon, Noida (2024).
 - 💼 **Experience:** Developed AI models, LSTM-based forecasting pipelines, and GAN-based image synthesis as a researcher at CSIR-CMERI and NIT Rourkela.
 - 💼 **Problem Solving:** Solved 170+ DSA, SQL, Pandas and Advanced SQL questions across coding platforms like GFG, Leetcode, DataLemur.
-- 🌱 **Tech Focus:** Machine Learning, Advanced Deep Learning, Python, DSA,SQL,Excel and MERN stack development.
+- 🌱 **Tech Focus:** Machine Learning, Advanced Deep Learning, Python, DSA, SQL, Excel and MERN stack development.
 
 ### 🛠️ Tech Stack & Tools
 
