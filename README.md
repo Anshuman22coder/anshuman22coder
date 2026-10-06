@@ -33,8 +33,8 @@
 ### 🛠️ Tech Stack & Tools
 
 **Languages:** Python, JavaScript, HTML5/CSS3, Java.
-**AI/ML & Data Science:** Deep Learning, GANs, LSTMs, LLMs, Computer Vision, Transformers  .
-**Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS  .
+**AI/ML & Data Science:** Deep Learning, GANs, LSTMs, LLMs, Computer Vision, Transformers .
+**Web Development:** React.js, Node.js, Express.js, MongoDB, WebSockets, NGINX, AWS .
 **DevOps & Tools:** CI/CD, PM2, Git <br>.
 **Data Analytics:** Advanced Sql, Excel, Power Bi, Power Query, Dax, Data Modelling, EDA.
 
