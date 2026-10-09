@@ -81,7 +81,7 @@
 ### 📈Data Analyst Resume
 
 <p align="center">
-  <a href="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Anshuman_DATA ANALYTICS RESUMe.pdf">
+  <a href="https://github.com/Anshuman22coder/anshuman22coder/blob/main/RESUME/DATA%20ANALYTICS%20RESUME.pdf">
     <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Screenshot_20260922_160142_Xodo.jpg" />
   </a>
 </p>
