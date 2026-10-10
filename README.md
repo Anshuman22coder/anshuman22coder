@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/Anshuman22coder/anshuman22coder/blob/main/RESUME/Samanta_Anshuman_RESUME_10-10-26.pdf">
-    <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/Screenshot_20260922_160142_Xodo.jpg" />
+    <img src="https://github.com/Anshuman22coder/anshuman22coder/blob/main/RESUME/SS%20OF%20DA%20RESUME.jpg" />
   </a>
 </p>
 
