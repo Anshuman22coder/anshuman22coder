@@ -1,5 +1,8 @@
 
 <h1 align="center">Hi there, I'm Anshuman Samanta 👋</h1>
+
+<img src="Screenshot 2026-09-30 184313.png" align="center" width="1584" height="396">
+
 <h3 align="center">AI, ML, Data Science & Full-Stack Web Developer | Data Analyst| Engineering Smart Solutions</h3>
 
 <p align="center">
