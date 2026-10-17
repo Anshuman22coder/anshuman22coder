@@ -23,7 +23,7 @@
 
 ---
 <img src="Screenshot 2026-09-30 184313.png" align="right" width="280" height="700">
-
+---
 ### 👨🏻‍💻 About Me
 
 - 🔭 **Currently:** Research Intern @ FOSSEE Lab IIT Bombay, focusing on LLMs, embeddings, and open-source software.
